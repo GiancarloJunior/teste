@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/GiancarloJunior/teste.git",
   "author": "giancarlojunior <giancarlorosadejesus@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
